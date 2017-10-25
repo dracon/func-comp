@@ -19,15 +19,15 @@
         msg: 'Welcome to Your Vue.js App',
         emptyMsg: 'Nobody at home',
         myItems: [
-          {
-            name: 'Wolfgang'
-          },
-          {
-            name: 'Elisabeth'
-          },
-          {
-            name: 'Linda'
-          }
+//          {
+//            name: 'Wolfgang'
+//          },
+//          {
+//            name: 'Elisabeth'
+//          },
+//          {
+//            name: 'Linda'
+//          }
         ]
       }
     }
