@@ -9,8 +9,8 @@
     computed: {
       title () {
 //        let vm = this
-        console.log(this.$parent.msg)
-        return this.$parent.msg
+        console.log(this.$parent.emptyMsg)
+        return this.$parent.emptyMsg
       }
     }
   }

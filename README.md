@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+## Try functional component with vue files
+
 ## Build Setup
 
 ``` bash

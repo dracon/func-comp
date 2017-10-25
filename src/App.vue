@@ -17,6 +17,7 @@
     data () {
       return {
         msg: 'Welcome to Your Vue.js App',
+        emptyMsg: 'Nobody at home',
         myItems: [
           {
             name: 'Wolfgang'
